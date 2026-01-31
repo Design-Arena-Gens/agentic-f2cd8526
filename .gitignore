@@ -885,6 +885,9 @@ venv.bak/
 *.parquet
 data/
 datasets/
+!package.json
+!package-lock.json
+!tsconfig.json
 
 # ===== CUSTOM PROJECT FILES =====
 # Add any project-specific ignores here
